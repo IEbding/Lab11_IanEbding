@@ -12,8 +12,6 @@
 
 using namespace std;
 
-// Woah another comment wow
-
 ILinkedList::ILinkedList() : m_count(0)
 {
 
