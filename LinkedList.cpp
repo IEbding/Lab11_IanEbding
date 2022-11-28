@@ -12,8 +12,6 @@
 
 using namespace std;
 
-// Comment conflict
-
 ILinkedList::ILinkedList() : m_count(0)
 {
 
