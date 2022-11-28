@@ -1,6 +1,8 @@
 // LinkedList.cpp : Defines the exported functions for the DLL application.
 //
 
+// Comment to modify file for lab11
+
 #include "LinkedList.h"
 #include <iostream>
 #include <string>
